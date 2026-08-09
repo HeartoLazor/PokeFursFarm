@@ -1,0 +1,26 @@
+# Temporary files
+[Tt]humbs.db
+[Tt]emp/
+*.tmp
+
+# Temporary translation files
+i18n/*.tmp
+
+# Mod log files
+*.log
+
+# Backup files
+*.bak
+*.backup
+
+# System files
+.DS_Store
+Desktop.ini
+desktop.ini
+
+#word/excel temp files
+~$*.xls
+~$*.xlsx
+~$*.doc
+~$*.docx
+
